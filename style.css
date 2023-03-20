@@ -37,16 +37,16 @@ body {
         margin: 0 auto;
         padding: 20px;
         background-color: #364d6b;
-        width: 500px;
-        height: 650px;
+        width: 600px;
+        height: 700px;
         border-radius: 25px;
         
       }
       
       .calculadora td button {
         display: block;
-        width: 100px;
-        height: 100px;
+        width: 130px;
+        height: 116px;
         font-size: 30px;
       }
       
@@ -55,7 +55,7 @@ body {
         display: block;
         background-color: white;
         margin: 15px 18px;
-        width: 400px;
+        width: 513px;
         height: 100px;
         border-radius: 10px;
         text-align: center;
