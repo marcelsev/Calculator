@@ -1,3 +1,7 @@
+body{
+    background-color: rgba(149, 149, 163, 0.417);
+}
+
 .calculadora{
     display: block;
     margin: 0 auto;
@@ -25,4 +29,15 @@
     border-radius: 10px;
     text-align: center;
     overflow-y: scroll;
+    font-size: xxx-large;
+    line-height: 100px;
+}
+#firma{
+    text-align: center;
+    padding:22px 0px;
+    color: antiquewhite;
+}
+
+#reset{
+    font-size: 40px;
 }
